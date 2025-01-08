@@ -7,6 +7,7 @@
 
 ### Installation
 This implementation based on [BasicSR](https://github.com/xinntao/BasicSR) which is a open source toolbox for image/video restoration tasks.
+    
     conda create -n torch2 python==3.9
     pip install -r  requirements.txt  -i https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
     cd  ASteISR
